@@ -1,0 +1,15 @@
+C:\Users\willi\game-RPG-DIO\bin\Debug\net6.0\game-RPG-DIO.exe
+C:\Users\willi\game-RPG-DIO\bin\Debug\net6.0\game-RPG-DIO.deps.json
+C:\Users\willi\game-RPG-DIO\bin\Debug\net6.0\game-RPG-DIO.runtimeconfig.json
+C:\Users\willi\game-RPG-DIO\bin\Debug\net6.0\game-RPG-DIO.dll
+C:\Users\willi\game-RPG-DIO\bin\Debug\net6.0\game-RPG-DIO.pdb
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.csproj.AssemblyReference.cache
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.AssemblyInfoInputs.cache
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.AssemblyInfo.cs
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.csproj.CoreCompileInputs.cache
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.dll
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\refint\game-RPG-DIO.dll
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.pdb
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\game-RPG-DIO.genruntimeconfig.cache
+C:\Users\willi\game-RPG-DIO\obj\Debug\net6.0\ref\game-RPG-DIO.dll
